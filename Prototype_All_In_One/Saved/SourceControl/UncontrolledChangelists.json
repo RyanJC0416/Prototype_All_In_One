@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ryan/Documents/GitHub/Prototype_All_In_One/Prototype_All_In_One/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+			]
+		}
+	]
+}
